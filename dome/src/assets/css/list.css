@@ -1,0 +1,58 @@
+.listimg{
+    width: 7.2rem;
+    height: 4rem ;
+    background: url('../img/listbg.png') no-repeat center;
+    background-size: 100%;
+    padding:.2rem .2rem .2rem .2rem
+}
+
+.listimg p{
+    color: white;
+   
+}
+.one{
+    font-size: .36rem;
+    width: 80%;
+    margin-top: .8rem;
+}
+.tow{
+    display: inline-block;
+    background-color: rgb(184, 182, 182);
+    font-size: .1rem;
+    color: white;
+    margin-top: .3rem;
+}
+.strss{
+    font-size: .26rem;
+    margin-top: .5rem;
+    
+}
+.lol{
+    font-size: .26rem;
+}
+.sk{
+    font-size: .1rem;
+    background-color: #ccc;
+    padding:0 .3rem 0 .3rem
+}
+.ul1{
+    margin-top: -.3.8rem;
+    padding-left: .3rem;
+}
+.xxxleft{
+    color: #ccc;
+    float: left;
+    width: .4rem;
+    margin-top: .14rem;
+
+}
+.play{
+    float: left;
+    /* width: .22rem;
+    height: .22rem; */
+}
+.img2{
+    width: .44rem;
+    height: .44rem;
+    margin-top: .2rem;
+}

@@ -1,0 +1,30 @@
+.index .navTitle{
+    height: 1.68rem;
+    width: 100%;
+    background: #d43c33;
+   
+   
+    /* padding-left: 10px; */
+
+}
+.index .yy{
+    font-family: '微软雅黑';
+    color: #fff;
+    line-height: 1.68rem;
+    margin-left: .8rem;
+}
+.index .navBar{
+    height: 0.8rem;
+    border-bottom: 1px solid #ccc;
+    line-height: 0.8rem;
+    display: flex;
+}
+.navBar a{
+    flex:1;
+    text-align: center;
+    color: #333;
+    font-size: 17px;
+}
+.index .active{
+    color: #DD001B;
+}

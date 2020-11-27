@@ -1,0 +1,63 @@
+
+.box{
+    margin-top: .3rem;
+}
+.searchbox{
+    position: relative;
+    width: 90%;
+    height: .6rem;
+    /* padding: 0 .6rem 0 .6rem; */
+    padding-left: .3rem;
+    padding-right: .3rem;
+    /* padding-top: .2rem; */
+    box-sizing: border-box;
+    background: #ebecec;
+    border-radius: .6rem;
+    /* margin-top: .2rem; */
+    margin: auto ;
+}
+.kkk{
+    display: inline-block;
+    width: .4rem;
+    height: .4rem;
+    background: url('../img/放大镜.png') no-repeat center;
+    margin-top: 4px;
+    margin-left: .2rem;
+}
+.ss{
+    width: 4.5rem;
+    border: none;
+    height: .6rem;
+    /* margin-top: -.2rem; */
+    vertical-align: top;
+    background-color: #ebecec;
+    font-size: .2rem;
+    margin-left: .3rem;
+    border: none;
+    outline:none;
+    cursor: pointer;
+}
+.hots{
+    font-size: .2rem;
+    margin-left: .3rem;
+    margin-top: .8rem;
+}
+
+.min{
+    width: 1.3rem;
+    border: 1px solid rgb(196, 195, 195);
+    border-radius: .5rem;
+    text-align: center;
+    float: left;
+    margin: .2rem .2rem .2rem .2rem;
+}
+.aa{
+    font-size: .24rem;
+    line-height: .3rem;
+}
+
+.ul{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
